@@ -20,6 +20,9 @@
     "discord",
     "discordjs"
   ],
+  "engines": {
+    "node": "8.0.0"
+  },
   "license": "MIT",
   "main": "app.js",
   "name": "mashirobot",
